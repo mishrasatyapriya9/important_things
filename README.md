@@ -2,8 +2,17 @@
 # npm install for install all dependencies to run the project
 ->then in the vite project ,in terminal use npm run dev
 ->then in the react project ,in terminal use npm start
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+#### https://themewagon.com/themes/   free themes whole page 
 
-
+<br/>
+ ### https://bootswatch.com/
+### to use any theme download the min css file 
+ add theme to our project , add bootstrap.min.css in src folder, and add the css in the index.jsx
 
 
 
