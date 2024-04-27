@@ -30,5 +30,6 @@ This command removes the .git directory that was created during initialization. 
 
 ##### HOW TO SETUP FIREBASE FOR UPLOAD IMG AND VIDEOS ,and follow normal steps to setup all things ,this part have the problems so i created this
 ![Use-of-Firebase-in-frontend-to-store-image-and-videos](https://github.com/mishrasatyapriya9/important_things/assets/106869525/f4952e9e-b57b-4b7c-8813-395d5606dfb4)
-## full code 
-![Use-of-Firebase-in-frontend-to-store-image-and-videos (1)](https://github.com/mishrasatyapriya9/important_things/assets/106869525/7e969fa7-0f87-47ae-b5ec-5b5413d0ed7d)
+## full code
+![newProduct js](https://github.com/mishrasatyapriya9/important_things/assets/106869525/8d69a5d8-1571-4341-ad25-89bc1fb3425f)
+ 
